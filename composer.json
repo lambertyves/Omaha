@@ -1,0 +1,7 @@
+{
+  "require": {
+    "ext-pgsql": "*",
+    "ext-json": "*",
+    "ext-curl": "*"
+  }
+}
